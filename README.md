@@ -7,8 +7,9 @@
   엘리스 소프트웨어 트랙 2기 부산 3팀의 두번째 웹 프로젝트 입니다.<br />
   캠핑장에 대한 정보를 확인하고 예약할 수 있는 홈페이지 입니다.<br />
   </div>
+    
   <br />
-  
+  http://ec2-52-79-154-49.ap-northeast-2.compute.amazonaws.com/
 </div>
 <br />
 <br />
@@ -117,15 +118,17 @@
 
 <br/>
 
-| [🔗와이어프레임(Wireframe)](https://kdt-gitlab.elice.io/sw_track/class_02_busan/web_project_2/team3/project-template/-/wikis/Wireframe)
+| [🔗와이어프레임(Wireframe)](https://github.com/wafu-alt/dinggulCamping/wiki/Wireframe)
 
 | [🔗프로토타입(Prototype)](https://www.figma.com/file/NstxG3reXALAHqt0wEtrIf/Untitled?node-id=0%3A1)
 
-| [🔗유저 시나리오 및 API 명세서](https://www.figma.com/file/NstxG3reXALAHqt0wEtrIf/Untitled?node-id=0%3A1)
+| [🔗유저 시나리오 및 API 명세서](https://docs.google.com/spreadsheets/d/13pvhqBN_bkvmRq11kauwkQNh6CZe7sFExRjGYqvjfT4/edit#gid=0)
 
 | [🔗API 문서](https://documenter.getpostman.com/view/21028820/UzR1K2iz)
 
-| 🔗서비스 구성도
+| [🔗페이지 구조도](https://github.com/wafu-alt/dinggulCamping/wiki/%ED%8E%98%EC%9D%B4%EC%A7%80-%EA%B5%AC%EC%A1%B0%EB%8F%84)
+
+서비스 구성도
 <br /><img src="https://i.imgur.com/Td8VjjS.png" alt="서비스 구성도" width="1000px" height="500px">
 
 
@@ -169,4 +172,13 @@
 |  최정훈   |  프론트엔드   | Reservation,payment  |
 |  박우람   |  프론트엔드   | Main, Login  |
 |  김채홍   |  백엔드   |  Backend API  |
+
+
+## 리팩토링
+### 목적 : 반응형웹으로 다이나믹하게 변경
+- 구상도(figma) : https://www.figma.com/file/NstxG3reXALAHqt0wEtrIf/Team3-Pension-reservation?node-id=527%3A2
+- 수정하는 레포지토리 : https://github.com/wafu-alt/reservation-app-code-Modifying
+- 수정하고 반영하는 레포지토리 : https://github.com/jhoon9494/reservation-app/commits/dev
+- 목적  : 각자 맡은 페이지를 웹 크기 600px~768px부터 맞춰서 ui를 조정한다.
+
 
