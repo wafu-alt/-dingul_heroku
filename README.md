@@ -9,8 +9,11 @@
   </div>
     
   <br />
-  http://ec2-52-79-154-49.ap-northeast-2.compute.amazonaws.com/
+  https://dingulcamping.herokuapp.com/
+  <br />
+
 </div>
+admin account : admin@admin.com / 12341234
 <br />
 <br />
 <br />
