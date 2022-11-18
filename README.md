@@ -11,9 +11,9 @@
   <br />
   https://dingulcamping.herokuapp.com/
   <br />
-
+  admin account : admin@admin.com / 12341234
 </div>
-admin account : admin@admin.com / 12341234
+
 <br />
 <br />
 <br />
