@@ -9,7 +9,7 @@
   </div>
     
   <br />
-  ~~https://dingulcamping.herokuapp.com/~~ (배포 수정 중입니다.)
+  (배포 수정 중입니다.)
   <br />
   admin account : admin@admin.com / 12341234
 </div>
