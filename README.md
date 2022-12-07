@@ -9,7 +9,7 @@
   </div>
     
   <br />
-  (배포 수정 중입니다.)
+  http://ec2-52-79-70-218.ap-northeast-2.compute.amazonaws.com/
   <br />
   admin account : admin@admin.com / 12341234
 </div>
